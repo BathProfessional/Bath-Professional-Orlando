@@ -1,0 +1,47 @@
+{
+  "business": "Bath Professional",
+  "rating": 5.0,
+  "reviewCount": 427,
+  "googleUrl": "https://share.google/2lFzTu5iHsSYiOprH",
+  "mapsUrl": "https://www.google.com/maps/place/Bath+Professional/@27.8128045,-82.6437443,17z",
+  "writeReviewUrl": "https://g.page/r/CRrx6UP1Y3zdEBM/review",
+  "placeId": "ChIJDeiWOVfhwogROfADvLmt82k",
+  "reviews": [
+    {
+      "author": "Shyanne Lowrey",
+      "rating": 5,
+      "text": "Effort and care are clearly put into the work they do. Anyone who works with them will be highly impressed and happy with the results.",
+      "date": "May 6, 2026",
+      "source": "Google",
+      "featured": "Highest rated review"
+    },
+    {
+      "author": "Daniela Valencia",
+      "rating": 5,
+      "text": "I am so happy with the refinishing services that Bath Professional provided. The company was quick to respond to my estimate and schedule me in asap. The employees are super friendly and thorough. I would highly recommend this company.",
+      "date": "a month ago",
+      "source": "Google"
+    },
+    {
+      "author": "Wilfredo Corchado",
+      "rating": 5,
+      "text": "Bath Professional did an amazing job on our tub! Our tub looks brand new. Was in and out in a hard day's work! Highly recommend for any refinishing work.",
+      "date": "a month ago",
+      "source": "Google"
+    },
+    {
+      "author": "Kaitlyn M",
+      "rating": 5,
+      "text": "You can tell they have been reglazing tubs for a long time and really know what they are doing! I am thrilled with the results! They also gave me a set of instructions afterwards so that the reglazing lasts for a very long time.",
+      "date": "a month ago",
+      "source": "Google"
+    },
+    {
+      "author": "Lindsey Ogden",
+      "rating": 5,
+      "text": "Fast quality service. Called for a quote and they scheduled quickly to refinish my tub. The transformation is amazing. Our tub went from ugly and worn out to looking brand new!",
+      "date": "4 months ago",
+      "source": "Google"
+    }
+  ]
+}

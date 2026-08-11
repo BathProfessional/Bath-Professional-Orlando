@@ -1,0 +1,15 @@
+# Vercel local link
+.vercel
+
+# Scraped / temp research files
+birdeye-*.html
+google-*.html
+maps-*.html
+maps-snippet.txt
+site-data.js
+site-source.html
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
