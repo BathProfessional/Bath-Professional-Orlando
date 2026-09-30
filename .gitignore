@@ -13,3 +13,4 @@ site-source.html
 .DS_Store
 Thumbs.db
 *.log
+.env*
