@@ -1,14 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.bathprofessional.com/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.bathprofessional.com/images/hero-pristine.jpg</image:loc>
+      <image:title>Bathtub Refinishing Orlando FL — Bath Professional</image:title>
+      <image:caption>Gleaming refinished clawfoot bathtub in Orlando, Florida by Bath Professional</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.bathprofessional.com/images/after-1.webp</image:loc>
+      <image:title>After Bathtub Refinishing &amp; Reglazing in Orlando, FL</image:title>
+      <image:caption>Restored porcelain bathtub after professional reglazing by Bath Professional Orlando</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.bathprofessional.com/images/after-2.webp</image:loc>
+      <image:title>After Shower Refinishing &amp; Resurfacing in Orlando, FL</image:title>
+      <image:caption>Refinished shower enclosure and tile in Orlando by Bath Professional</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.bathprofessional.com/images/after-3.webp</image:loc>
+      <image:title>After Full Bathroom &amp; Tile Refinishing in Orlando, FL</image:title>
+      <image:caption>Complete bathroom and ceramic tile resurfacing in Orlando, FL by Bath Professional</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.bathprofessional.com/images/after-4.webp</image:loc>
+      <image:title>After Sink Refinishing in Orlando, FL</image:title>
+      <image:caption>Porcelain bathroom sink restored to like-new condition by Bath Professional Orlando</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.bathprofessional.com/images/after-5.webp</image:loc>
+      <image:title>After Multi-Stone Countertop Refinishing in Orlando, FL</image:title>
+      <image:caption>Bathroom vanity countertop resurfaced with Multi-Stone coating by Bath Professional</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.bathprofessional.com/images/after-6.webp</image:loc>
+      <image:title>After Bathroom &amp; Kitchen Cabinet Refinishing in Orlando, FL</image:title>
+      <image:caption>Refinished bathroom cabinetry in Central Florida by Bath Professional</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.bathprofessional.com/privacy-policy</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
