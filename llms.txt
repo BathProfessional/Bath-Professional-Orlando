@@ -15,6 +15,7 @@
 - **Business Name**: Bath Professional (Bath Professional Orlando)
 - **Official Website**: https://www.bathprofessional.com/
 - **Sister Location (Tampa Bay)**: https://bath-professional.com/ (`(813) 445-9319`)
+- **Brand Disambiguation**: Official domains are `bathprofessional.com` (Orlando) and `bath-professional.com` (Tampa). Not affiliated with `bathprofessional.net` or `bathprorefinishing.com`.
 - **Phone**: (407) 421-5844 (`tel:+14074215844`)
 - **Email**: support@BathProfessional.com
 - **Hours**: Monday–Sunday, 8:00 AM – 7:00 PM EST (Open 7 days a week)
